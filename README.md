@@ -89,7 +89,7 @@ are always welcome! Feel free to open an issue or submit a pull request.
 If you'd like to connect or discuss data science & AI:
 
 - GitHub: https://github.com/AzibNaeem  
-- LinkedIn: https://linkedin.com/in/AzibNaeem  
+- LinkedIn: https://www.linkedin.com/in/azib-naeem-b29715329/
 
 ---
 
